@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "tslint-microsoft-contrib/recommended"
+  ],
+  "rules": {
+    "eofline": true,
+    "export-name": false,
+    "no-consecutive-blank-lines": true,
+    "no-relative-imports": false,
+    "ordered-imports": true,
+    "prefer-type-cast": false,
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "semicolon": true
+  }
+}
